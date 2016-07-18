@@ -1,0 +1,7 @@
+[package]
+name = "stable-borrow-state"
+version = "0.1.0"
+authors = ["Tim Ryan <id@timryan.org>"]
+description = "Hack to use borrow_stable method on stable until #27733 is resolved."
+
+[dependencies]
