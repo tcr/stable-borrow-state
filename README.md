@@ -1,6 +1,6 @@
 # stable-borrow-state
 
-Hack to use borrow_stable method on stable until #27733 is resolved.
+Hack to use borrow_stable method on stable Rust until #27733 is resolved.
 
 ```
 extern crate stable_borrow_state;
